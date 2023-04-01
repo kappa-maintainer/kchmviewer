@@ -53,8 +53,8 @@
 	#include <QTabWidget>
 	#include <QMessageBox>
 	#include <QProgressDialog>
-    #include <QPrinter>
-    #include <QPrintDialog>
+    #include <QtPrintSupport/QPrinter>
+    #include <QtPrintSupport/QPrintDialog>
 
 	#define i18n(A)		tr(A)
 

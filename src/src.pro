@@ -59,7 +59,7 @@ FORMS += tab_bookmarks.ui \
     toolbareditor.ui
 RESOURCES += resources/images.qrc
 
-QT += xml network widgets printsupport
+QT += xml network widgets printsupport webengine webenginewidgets
 
 linux-g++*:{
     LIBS += -lX11

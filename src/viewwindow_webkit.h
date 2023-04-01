@@ -19,7 +19,7 @@
 #ifndef VIEWWINDOW_WEBKIT_H
 #define VIEWWINDOW_WEBKIT_H
 
-#include <QWebView>
+#include <QtWebKitWidgets/QWebView>>
 
 #include "kde-qt.h"
 
